@@ -1,21 +1,21 @@
 {
-  "name": "generator-generator",
+  "name": "generator-dawg",
   "version": "0.3.0",
-  "description": "Generator Generator for Yeoman",
+  "description": "Yo dawg! I heard you like Generators. So there's a Generator for your Generator to generate Generators for Yeoman",
   "keywords": [
     "yeoman-generator"
   ],
-  "homepage": "https://github.com/yeoman/generator-generator",
-  "bugs": "https://github.com/yeoman/generator-generator/issues",
+  "homepage": "https://github.com/ddprrt/generator-dawg",
+  "bugs": "https://github.com/ddprrt/generator-dawg/issues",
   "author": {
-    "name": "Pascal Hartig",
-    "email": "phartig@rdrei.net",
-    "url": "http://yeoman.io"
+    "name": "Stefan Baumgartner",
+    "email": "sbaumg@gmail.com",
+    "url": "http://fettblog.eu"
   },
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yeoman/generator-generator.git"
+    "url": "https://github.com/ddprrt/generator-dawg.git"
   },
   "scripts": {
     "test": "mocha"

@@ -1,5 +1,10 @@
+# Disclaimer
+
+This is a just for fun fork of [The Original](https://github.com/yeoman/generator-generator). To generate generators with style.
+
+Original Readme:
+
 # Yeoman Generator for Yeoman Generators
-[![Build Status](https://secure.travis-ci.org/yeoman/generator-generator.png?branch=master)](https://travis-ci.org/yeoman/generator-generator)
 
 Maintainer: [Pascal Hartig](https://github.com/passy)
 
@@ -36,8 +41,8 @@ you.
         └── test-load.js
 
 ## Getting started
-- Install: `npm install -g generator-generator`
-- Run: `yo generator`
+- Install: `npm install -g generator-dawg`
+- Run: `yo dawg`
 
 ## Changelog
 
