@@ -1,6 +1,6 @@
 # <%= appname %> [![Build Status](https://secure.travis-ci.org/<%= githubUser %>/<%= _.slugify(appname) %>.png?branch=master)](https://travis-ci.org/<%= githubUser %>/<%= _.slugify(appname) %>)
 
-A generator for [Yeoman](http://yeoman.io).
+> [Yeoman](http://yeoman.io) generator
 
 
 ## Getting Started
@@ -44,4 +44,4 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 
 ## License
 
-[MIT License](http://en.wikipedia.org/wiki/MIT_License)
+MIT

@@ -4,24 +4,31 @@ This is a just for fun fork of [The Original](https://github.com/yeoman/generato
 
 Original Readme:
 
-# Yeoman Generator for Yeoman Generators
+# generator-generator [![Build Status](https://secure.travis-ci.org/yeoman/generator-generator.png?branch=master)](https://travis-ci.org/yeoman/generator-generator)
+
+> Yeoman generator for Yeoman generators
+> Scaffolds out a new basic Yeoman generator with some sensible defaults.
 
 Maintainer: [Pascal Hartig](https://github.com/passy)
 
 ![Yo dawg, I heard you like generators?](http://i.imgur.com/2gqiift.jpg)
 
-`generator-generator` scaffolds out a new basic Yeoman generator with some
-sensible defaults.
+
+## Getting started
+
+- Install: `npm install -g generator-generator`
+- Run: `yo generator`
+
 
 ## Commands
 
 * `yo generator` shows a wizard for generating a new generator
 * `yo generator:subgenerator NAME` generates a subgenerator with the name NAME
 
+
 ## What do you get?
 
-`generator-generator` scaffolds out a complete project directory structure for
-you.
+Scaffolds out a complete project directory structure for you:
 
     .
     ├── app
@@ -40,9 +47,12 @@ you.
         ├── test-creation.js
         └── test-load.js
 
+<<<<<<< HEAD
 ## Getting started
 - Install: `npm install -g generator-dawg`
 - Run: `yo dawg`
+=======
+>>>>>>> 449511bca9dce8e2b990a5cc3d264273a99991ae
 
 ## Changelog
 
@@ -67,15 +77,17 @@ you.
     * Upgraded mocha to 1.9.0
     * Include `.travis.yml`
 
+
 ## Contributing
 
-See the [contribution
-docs](https://github.com/yeoman/yeoman/blob/master/contributing.md).
+See the [contribution docs](https://github.com/yeoman/yeoman/blob/master/contributing.md).
 
 When submitting an issue, please follow [the
 guidelines](https://github.com/yeoman/yeoman/blob/master/contributing.md#issue-submission).
 Especially important is to make sure Yeoman is up-to-date, and providing the
 command or commands that cause the issue.
 
+
 ## License
-[MIT License](http://en.wikipedia.org/wiki/MIT_License)
+
+MIT © Pascal Hartig <phartig@rdrei.net> and other contributors
